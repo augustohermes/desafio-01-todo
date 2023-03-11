@@ -13,7 +13,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/augustohermes/desafio-01-todo?style=flat-square">
 </p>
 
-## 💻 Detalhes do desafio
+## 🧠 Detalhes do desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 

@@ -1,5 +1,16 @@
+<div align="center">
+  <img alt="Capa do desafio 1" width="90%" src="./.github/ignite.png">
+</div>
+
+<h1 align="center"> RocketSeat 🚀 Ignite ReactJS 🔥</h1>
+
 <p align="center">
-  <img alt="Capa do desafio" width="90%" src="./.github/ignite.png" />
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
+  </a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/augustohermes/desafio-01-todo?color=%2304D361?style=flat-square">
+  <img alt="Github lines of code" src="https://img.shields.io/tokei/lines/github/augustohermes/desafio-01-todo?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/augustohermes/desafio-01-todo?style=flat-square">
 </p>
 
 ## 💻 Detalhes do desafio
@@ -10,18 +21,28 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 
 - Adicionar uma nova tarefa
 - Remover uma tarefa
-- Marcar e desmarcar uma tarefa como concluída.
+- Marcar e desmarcar uma tarefa como concluída.   
 
-## 📥 Instalação e execução
+## ⚙️ Instalação do projeto
 
-Clone este repositório e acesse o diretório.
+## Clone este repositório e acesse o diretório
 
-```bash
+```sh
 $ git clone git@github.com:augustohermes/desafio-01-todo.git && cd desafio-01-todo
+```
 
-# Instalando as dependências
+## Instale as dependências necessárias
+
+```sh
 $ yarn
+```
 
-# Executando a aplicação
+## Rodando o projeto
+
+```sh
 $ yarn start
 ```
+
+<br>
+
+Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes).

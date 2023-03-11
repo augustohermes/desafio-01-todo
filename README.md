@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Capa do projeto" width="90%" src="./.github/ignite.png" />
+  <img alt="Capa do desafio" width="90%" src="./.github/ignite.png" />
 </p>
 
-## 💻 Detalhes do Desafio
+## 💻 Detalhes do desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 

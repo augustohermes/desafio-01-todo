@@ -14,7 +14,7 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 
 ## 📥 Instalação e execução
 
-Clone etse repositório e acesse o diretório.
+Clone este repositório e acesse o diretório.
 
 ```bash
 $ git clone git@github.com:augustohermes/desafio-01-todo.git && cd desafio-01-todo

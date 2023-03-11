@@ -46,3 +46,5 @@ $ yarn start
 <br>
 
 Feito com ❤️ por [Augusto Hermes](https://github.com/augustohermes) 👋.
+
+[![Linkedin: augustohermes](https://img.shields.io/badge/-augustohermes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustohermes/)](https://www.linkedin.com/in/augustohermes/)
